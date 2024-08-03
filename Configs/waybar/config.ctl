@@ -1,0 +1,5 @@
+0||bottom|( hyprland/workspaces hyprland/window )|( idle_inhibitor clock )|( cpu memory custom/cpuinfo custom/gpuinfo ) ( backlight network pulseaudio pulseaudio#microphone custom/updates custom/keybindhint ) ( tray battery ) ( custom/wallchange custom/theme custom/wbar custom/cliphist custom/power )
+0||top|( hyprland/workspaces hyprland/window )|( idle_inhibitor clock )|( cpu memory custom/cpuinfo custom/gpuinfo ) ( backlight network pulseaudio pulseaudio#microphone custom/updates custom/keybindhint ) ( tray battery ) ( custom/wallchange custom/theme custom/wbar custom/cliphist custom/power )
+0|45|bottom|( wlr/taskbar custom/spotify ) |( idle_inhibitor clock )|( tray battery ) ( backlight network pulseaudio pulseaudio#microphone custom/notifications )
+1|45|bottom|( wlr/taskbar memory ) |( idle_inhibitor clock )|( tray battery ) ( network pulseaudio pulseaudio#microphone custom/updates )
+0|45|top|( wlr/taskbar custom/spotify ) |( idle_inhibitor clock )|( tray battery ) ( network pulseaudio pulseaudio#microphone custom/notifications )
